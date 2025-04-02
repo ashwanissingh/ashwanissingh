@@ -1,5 +1,5 @@
 # 💫 About Me: 
-I'm a passionate Full Stack Developer with expertise in React.js, Node.js, Next.js, Express.js, and MongoDB. I enjoy building scalable web applications and exploring NLP applications in financial document processing.<br><br>🛠 Tech Stack<br>Languages: Java, JavaScript, TypeScript<br>Frontend: React.js, Next.js<br>Backend: Node.js, Express.js<br>Database: MongoDB, PostgreSQL, Redis<br>Other: WebSockets, Git, Docker<br>.
+I am a final-year student at Vellore Institute of Technology, Bhopal, with a strong passion for web development and scalable system design. With hands-on experience in React.js, Next.js, Node.js, Express.js, MongoDB, and PostgreSQL, I have built and deployed full-stack applications, focusing on performance and user experience
 
 
 ## 🌐 Socials:
