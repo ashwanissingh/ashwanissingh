@@ -5,7 +5,7 @@ I am a final-year student at Vellore Institute of Technology, Bhopal, with a str
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajput_ashwani._) 
-[![LinkedIn](www.linkedin.com/in/ashwani-singh1304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwanisingh1304@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/ashwanissingh/)
+[![LinkedIn](https://www.linkedin.com/in/ashwani-singh1304) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwanisingh1304@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/ashwanissingh/)
 
 
 # 💻 Tech Stack:
