@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)
+
 # 💫 About Me: 
 I am a final-year student at Vellore Institute of Technology, Bhopal, with a strong passion for web development and scalable system design. With hands-on experience in React.js, Next.js, Node.js, Express.js, MongoDB, and PostgreSQL, I have built and deployed full-stack applications, focusing on performance and user experience.
 
